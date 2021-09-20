@@ -167,7 +167,7 @@ namespace CalculatorTest
 
         private bool ValidateInput(string text, out List<double> firstNum)
         {
-            firstNum = new List<double>();
+            firstNum = new List<double>(); // test comment
             foreach (string s in text.Split(GetOperatorChar(previousOperation)))
             {
                 if (!double.TryParse(s, out double result))
