@@ -165,16 +165,6 @@ namespace CalculatorTest
             }
         }
 
-
-        string test = "1+2+3+4+5";
-        List<string> a = new List<string>() {
-            "1",
-            "2",
-            "3",
-            "4",
-            "5",
-        };
-
         private bool ValidateInput(string text, out List<double> firstNum)
         {
             firstNum = new List<double>();
