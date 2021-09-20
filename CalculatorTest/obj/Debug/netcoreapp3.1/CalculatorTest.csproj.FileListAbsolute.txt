@@ -1,0 +1,16 @@
+C:\Users\Max Hansen\source\repos\CalculatorTest\CalculatorTest\bin\Debug\netcoreapp3.1\CalculatorTest.exe
+C:\Users\Max Hansen\source\repos\CalculatorTest\CalculatorTest\bin\Debug\netcoreapp3.1\CalculatorTest.deps.json
+C:\Users\Max Hansen\source\repos\CalculatorTest\CalculatorTest\bin\Debug\netcoreapp3.1\CalculatorTest.runtimeconfig.json
+C:\Users\Max Hansen\source\repos\CalculatorTest\CalculatorTest\bin\Debug\netcoreapp3.1\CalculatorTest.runtimeconfig.dev.json
+C:\Users\Max Hansen\source\repos\CalculatorTest\CalculatorTest\bin\Debug\netcoreapp3.1\CalculatorTest.dll
+C:\Users\Max Hansen\source\repos\CalculatorTest\CalculatorTest\bin\Debug\netcoreapp3.1\CalculatorTest.pdb
+C:\Users\Max Hansen\source\repos\CalculatorTest\CalculatorTest\obj\Debug\netcoreapp3.1\CalculatorTest.csproj.AssemblyReference.cache
+C:\Users\Max Hansen\source\repos\CalculatorTest\CalculatorTest\obj\Debug\netcoreapp3.1\CalculatorTest.Form1.resources
+C:\Users\Max Hansen\source\repos\CalculatorTest\CalculatorTest\obj\Debug\netcoreapp3.1\CalculatorTest.csproj.GenerateResource.cache
+C:\Users\Max Hansen\source\repos\CalculatorTest\CalculatorTest\obj\Debug\netcoreapp3.1\CalculatorTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max Hansen\source\repos\CalculatorTest\CalculatorTest\obj\Debug\netcoreapp3.1\CalculatorTest.AssemblyInfoInputs.cache
+C:\Users\Max Hansen\source\repos\CalculatorTest\CalculatorTest\obj\Debug\netcoreapp3.1\CalculatorTest.AssemblyInfo.cs
+C:\Users\Max Hansen\source\repos\CalculatorTest\CalculatorTest\obj\Debug\netcoreapp3.1\CalculatorTest.csproj.CoreCompileInputs.cache
+C:\Users\Max Hansen\source\repos\CalculatorTest\CalculatorTest\obj\Debug\netcoreapp3.1\CalculatorTest.dll
+C:\Users\Max Hansen\source\repos\CalculatorTest\CalculatorTest\obj\Debug\netcoreapp3.1\CalculatorTest.pdb
+C:\Users\Max Hansen\source\repos\CalculatorTest\CalculatorTest\obj\Debug\netcoreapp3.1\CalculatorTest.genruntimeconfig.cache
